@@ -183,7 +183,7 @@ section {
 }
 
 .section__text p {
-  font-weight: 600;
+  font-weight: 500;
 }
 
 .section__text__p1 {
@@ -192,12 +192,12 @@ section {
 
 .section__text__p2 {
   font-size: 1.75rem;
-  margin-bottom: 1rem;
+  margin-bottom: 0rem;
 }
 
 .section__text__p3 {
-  font-size: 1.2rem; 
-  margin-bottom: 1rem;
+  font-size: 0.8rem; 
+  margin-bottom: 5rem;
 }
 
 .title {
